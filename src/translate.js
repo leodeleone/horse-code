@@ -115,7 +115,7 @@ const revHorseMap = (multiSymbol) => {
         case '🐎🐎🐎🐴🐴': return '8';
         case '🐎🐎🐎🐎🐴': return '9';
         case '🐎🐎🐎🐎🐎': return '0';
-        default: return '?';
+        default: return '';
     }
 };
 
